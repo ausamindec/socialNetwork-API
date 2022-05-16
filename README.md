@@ -66,7 +66,7 @@ Routes are as follows:
 
 ### Users API walkthrough
 
-
+![Watch the video](https://github.com/ausamindec/socialNetwork-API/blob/main/assets/addUser.gif)
 
 ### UserFriends API Walkthrough
 
@@ -74,6 +74,8 @@ Routes are as follows:
 
 
 ### Thoughts API Walkthrough
+
+![Watch the video](https://github.com/ausamindec/socialNetwork-API/blob/main/assets/thoughts.gif)
 
 ## License
 
